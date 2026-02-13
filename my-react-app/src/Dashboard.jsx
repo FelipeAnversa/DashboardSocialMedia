@@ -21,7 +21,7 @@ export default function Dashboard({setTrocar, trocar}) {
                 justifyContent="center"
                 alignItems="baseline"
                 direction={{ xs: "column", sm: "row" }}
-                sx={{ width: { xs: "100%", sm: "auto" }, px: 4, pt: { xs: 0, sm: 2} }} 
+                sx={{ width: { xs: "100%", sm: "auto" }, px: 4, pt: { xs: 0, sm: 5} }} 
                 minHeight="30vh"
                 bgcolor="cores.topbg"
             >

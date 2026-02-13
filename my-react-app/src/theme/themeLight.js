@@ -17,16 +17,6 @@ export const themeLight = createTheme({
             },
             red: {
                 main: "hsl(356, 69%, 56%)",
-                youtube: "hsl(348, 97%, 39%)",
-            },
-            blue: {
-                facebook: "hsl(208, 92%, 53%)",
-                twitter: "hsl(203, 89%, 53%)",
-            },
-            instagram: {
-                first: "hsl(37, 97%, 70%)",
-                second: "hsl(5, 77%, 71%)",
-                third: "hsl(329, 70%, 58%)",
             },
         },
     },
